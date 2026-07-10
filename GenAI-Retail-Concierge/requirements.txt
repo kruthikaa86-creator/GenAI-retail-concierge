@@ -1,0 +1,13 @@
+pandas
+numpy
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langgraph
+faiss-cpu
+streamlit
+pydantic
+scikit-learn
